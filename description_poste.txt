@@ -1,0 +1,13 @@
+Titre du poste : Développeur Python Junior
+
+Description :
+Nous recherchons un développeur Python junior pour rejoindre notre équipe technique. Le candidat idéal devra :
+- Avoir une bonne maîtrise de Python
+- Connaître les bases de Git, REST API, et SQL
+- Avoir un bon esprit d’équipe et une capacité d’analyse
+- Une expérience en frameworks web (Flask ou Django) est un plus
+
+Type de contrat : CDI
+Lieu : Paris (télétravail possible)
+Expérience : 1 à 2 ans
+Langues : Français (obligatoire), Anglais (souhaité)

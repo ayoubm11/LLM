@@ -1,0 +1,11 @@
+Nom : Khaled Youssef
+Expérience :
+- Développeur Java depuis 3 ans
+- Formation en Python suivie en ligne (40h)
+- Bonne compréhension des API REST, SQL et Git
+
+Compétences :
+- Java, Python (débutant), Git, SQL
+- Autonomie, rigueur, esprit critique
+
+Langues : Arabe (natif), Anglais (avancé)

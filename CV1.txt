@@ -1,0 +1,11 @@
+Nom : Ahmed Ben Salah
+Expérience :
+- Développeur Python chez DevSoft (1 an)
+- Projet universitaire : création d’une API REST avec Flask
+- Connaissances en SQL, Git, GitHub
+
+Langues : Français (courant), Anglais (intermédiaire)
+
+Compétences :
+- Python, Flask, SQL, Git
+- Travail en équipe, résolution de problèmes
