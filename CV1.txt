@@ -1,6 +1,6 @@
-Nom : Ahmed Ben Salah
+Nom : Ayoub ben kira
 Expérience :
-- Développeur Python chez DevSoft (1 an)
+- Développeur Python/Java chez DevSoft (1 an)
 - Projet universitaire : création d’une API REST avec Flask
 - Connaissances en SQL, Git, GitHub
 

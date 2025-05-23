@@ -1,7 +1,7 @@
 Nom : Sophie Martin
 Expérience :
 - Analyste données avec R et Excel pendant 2 ans
-- Stage en marketing digital
+- Stage en marketing digital (msi)
 
 Compétences :
 - R, Excel, Power BI
